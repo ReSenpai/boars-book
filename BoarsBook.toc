@@ -9,6 +9,7 @@
 ## SavedVariables: BoarsBookDB
 ## SavedVariablesPerCharacter: BoarsBookCharacterDB
 ## X-Category: Quests & Leveling
+## X-Curse-Project-ID: 1759304
 ## X-License: GPL-3.0-or-later
 ## X-Website: https://github.com/ReSenpai/boars-book
 

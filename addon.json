@@ -19,6 +19,7 @@
   },
   "illustrations": "book/illustrations.json",
   "toc": {
+    "X-Curse-Project-ID": "1759304",
     "X-License": "GPL-3.0-or-later",
     "X-Website": "https://github.com/ReSenpai/boars-book",
     "X-Category": "Quests & Leveling"
