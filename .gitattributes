@@ -1,0 +1,8 @@
+# Text files are kept with LF line endings, in the repository and in every checkout, on every system.
+* text=auto eol=lf
+
+# Binary files: never touched.
+*.tga binary
+*.png binary
+*.jpg binary
+*.zip binary

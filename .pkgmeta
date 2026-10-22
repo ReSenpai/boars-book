@@ -1,0 +1,19 @@
+package-as: BoarsBook
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+# Only the addon goes into the zip: the sources of the book and the art, repository docs
+# and settings stay in the repository. LICENSE, NOTICE, README and CHANGELOG ship.
+ignore:
+  - book
+  - art
+  - docs
+  - addon.json
+  - CONTRIBUTING.md
+  - SECURITY.md
+  - .github
+  - .editorconfig
+  - .gitattributes
+  - .gitignore

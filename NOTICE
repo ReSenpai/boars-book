@@ -1,0 +1,30 @@
+Boars Book
+Copyright (C) 2026 ReSenpai
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
+License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later
+version. See the LICENSE file for the full text.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+What the license covers
+-----------------------
+The code, the text of the book (book/*.json and Books/*.lua) and its illustrations and parchments (Assets/) are
+released under the GPL like the rest of the project.
+
+Name and emblem
+---------------
+The name "Boars Book" and its boar medallion (Assets/Seal*.tga, art/) are not covered by the GPL. Forks and modified
+versions must use a different name and emblem so they are not mistaken for this addon.
+
+Unofficial project
+------------------
+Boars Book is an unofficial fan project. It is not affiliated with or endorsed by Blizzard Entertainment. World of
+Warcraft and Warcraft are trademarks or registered trademarks of Blizzard Entertainment, Inc. Game textures, icons and
+sounds the addon uses (such as the minimap ring, the boar icon and the spellbook sounds) are not part of this program:
+they are referenced by path and loaded from the game client.
+
+Third-party components
+----------------------
+None. The addon uses only the game client's own API.

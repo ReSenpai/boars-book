@@ -1,0 +1,16 @@
+name: Idea or correction
+description: An idea for the addon, or a fix to the book's text or facts.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: The idea, or the passage of the book and what is wrong with it.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What it would help with, or where the correct fact comes from.

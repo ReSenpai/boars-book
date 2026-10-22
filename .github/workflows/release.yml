@@ -1,0 +1,23 @@
+# Builds the zip and publishes it on a version tag (git tag v1.0.0 && git push --tags):
+# a GitHub release always; CurseForge once the TOC has X-Curse-Project-ID
+# (addon.json -> "toc") and the repository has the CF_API_KEY secret.
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      CF_API_KEY: ${{ secrets.CF_API_KEY }}
+      GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: BigWigsMods/packager@v2

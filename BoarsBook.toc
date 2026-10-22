@@ -1,0 +1,69 @@
+## Interface: 11509
+## Title: Boars Book
+## Title-ruRU: Boars Book
+## Notes: Dur the dwarf's illustrated book about the boars of Azeroth, with a boar hunt. Boar icon on the minimap or /boars
+## Notes-ruRU: Иллюстрированная книга дворфа Дура о кабанах Азерота с охотой за находками. Значок кабана у миникарты или /boars
+## Author: ReSenpai
+## Version: 1.0.0
+## IconTexture: Interface\Icons\Ability_Hunter_Pet_Boar
+## SavedVariables: BoarsBookDB
+## SavedVariablesPerCharacter: BoarsBookCharacterDB
+## X-Category: Quests & Leveling
+## X-License: GPL-3.0-or-later
+## X-Website: https://github.com/ReSenpai/boars-book
+
+Core\Init.lua
+Core\Edition.lua
+Locales\Locale.lua
+Locales\enUS.lua
+Locales\ruRU.lua
+Domain\Tables.lua
+Domain\Ids.lua
+Domain\Utf8.lua
+Domain\Text.lua
+Domain\Json.lua
+Domain\BookSchema.lua
+Domain\BookValidator.lua
+Services\ReaderNav.lua
+Services\ReaderState.lua
+Services\ReaderView.lua
+Services\Debounce.lua
+Services\Library.lua
+Services\SearchSession.lua
+Services\Assets.lua
+Services\Annotations.lua
+Services\Checklists.lua
+Services\FieldView.lua
+Services\Translations.lua
+Services\Discoveries.lua
+Storage\Migrations.lua
+Storage\Storage.lua
+Layout\Wrap.lua
+Layout\Paginator.lua
+Layout\LayoutCache.lua
+Layout\RenderOps.lua
+UI\Theme.lua
+Compat\Profile.lua
+Compat\Client.lua
+Compat\Fonts.lua
+Compat\TextMeasurer.lua
+Core\Commands.lua
+UI\WidgetPool.lua
+UI\Widgets.lua
+UI\PageView.lua
+UI\MainWindow.lua
+UI\Reader.lua
+UI\NotePopup.lua
+UI\ReaderAnnotations.lua
+UI\PageWindows.lua
+UI\BookApp.lua
+UI\MinimapButton.lua
+UI\Discovery.lua
+UI\DiscoveryToast.lua
+UI\DiscoveryJournal.lua
+Books\Manifest.lua
+Books\enUS.lua
+Books\ruRU.lua
+Books\Illustrations.lua
+Books\Achievements.lua
+Core\Bootstrap.lua

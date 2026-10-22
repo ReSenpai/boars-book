@@ -1,0 +1,28 @@
+{
+  "name": "BoarsBook",
+  "version": "1.0.0",
+  "author": "ReSenpai",
+  "slash": "/boars",
+  "original": "ruRU",
+  "icon": "Interface\\Icons\\Ability_Hunter_Pet_Boar",
+  "title": {
+    "ruRU": "Boars Book",
+    "enUS": "Boars Book"
+  },
+  "notes": {
+    "ruRU": "Иллюстрированная книга дворфа Дура о кабанах Азерота с охотой за находками. Значок кабана у миникарты или /boars",
+    "enUS": "Dur the dwarf's illustrated book about the boars of Azeroth, with a boar hunt. Boar icon on the minimap or /boars"
+  },
+  "books": {
+    "ruRU": "book/ruRU.json",
+    "enUS": "book/enUS.json"
+  },
+  "illustrations": "book/illustrations.json",
+  "toc": {
+    "X-License": "GPL-3.0-or-later",
+    "X-Website": "https://github.com/ReSenpai/boars-book",
+    "X-Category": "Quests & Leveling"
+  },
+  "achievements": "book/achievements.json",
+  "seal": "art/seal.png"
+}

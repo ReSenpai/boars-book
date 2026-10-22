@@ -1,0 +1,167 @@
+{
+  "dur.boars.blasted": {
+    "file": "blasted",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.dun": {
+    "file": "dun",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.dur": {
+    "file": "dur",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.durotar": {
+    "file": "durotar",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.elwynn": {
+    "file": "elwynn",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.forest": {
+    "file": "forest",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.home": {
+    "file": "home",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.kitchen": {
+    "file": "kitchen",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.kraul": {
+    "file": "kraul",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.mulgore": {
+    "file": "mulgore",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.plague": {
+    "file": "plague",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.preface": {
+    "file": "preface",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.red-gold": {
+    "file": "red-gold",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.teldrassil": {
+    "file": "teldrassil",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  },
+  "dur.boars.training": {
+    "file": "training",
+    "width": 1024,
+    "height": 512,
+    "coords": [
+      0,
+      0.75,
+      0,
+      1.0
+    ]
+  }
+}

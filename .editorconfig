@@ -1,0 +1,16 @@
+# Editor settings for this repository (https://editorconfig.org): LF line endings, as in .gitattributes, UTF-8, and a
+# newline at the end of every file.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+[*.lua]
+indent_style = space
+indent_size = 4
+
+[*.{json,yml,yaml}]
+indent_style = space
+indent_size = 2

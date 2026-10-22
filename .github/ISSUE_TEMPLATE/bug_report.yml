@@ -1,0 +1,37 @@
+name: Bug report
+description: Something in the addon does not work as it should.
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected and what you saw instead. A screenshot helps.
+    validations:
+      required: true
+  - type: input
+    id: boar
+    attributes:
+      label: Boar and zone
+      description: For a boar that does not count or a wrong fact — its name and where you met it.
+  - type: input
+    id: version
+    attributes:
+      label: Addon version
+      description: From the AddOns list or the release you downloaded.
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Game client language
+      options:
+        - English
+        - Russian
+        - Other
+  - type: textarea
+    id: errors
+    attributes:
+      label: Lua errors
+      description: If the game showed an error (/console scriptErrors 1, or an addon like BugSack), paste it here.
+      render: text

@@ -1,0 +1,603 @@
+{
+  "discoveries": [
+    {
+      "id": "boar.708",
+      "npcId": 708,
+      "chapterId": "ch.dun",
+      "blockId": "b.dun.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Малый скальный вепрь",
+        "enUS": "Small Crag Boar"
+      }
+    },
+    {
+      "id": "boar.1125",
+      "npcId": 1125,
+      "chapterId": "ch.dun",
+      "blockId": "b.dun.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Скальный вепрь",
+        "enUS": "Crag Boar"
+      }
+    },
+    {
+      "id": "boar.1126",
+      "npcId": 1126,
+      "chapterId": "ch.dun",
+      "blockId": "b.dun.06",
+      "tameable": true,
+      "title": {
+        "ruRU": "Большой скальный вепрь",
+        "enUS": "Large Crag Boar"
+      }
+    },
+    {
+      "id": "boar.1127",
+      "npcId": 1127,
+      "chapterId": "ch.dun",
+      "blockId": "b.dun.08",
+      "tameable": true,
+      "title": {
+        "ruRU": "Старый скальный вепрь",
+        "enUS": "Elder Crag Boar"
+      }
+    },
+    {
+      "id": "boar.1689",
+      "npcId": 1689,
+      "chapterId": "ch.dun",
+      "blockId": "b.dun.10",
+      "tameable": true,
+      "title": {
+        "ruRU": "Покрытый шрамами скальный вепрь",
+        "enUS": "Scarred Crag Boar"
+      }
+    },
+    {
+      "id": "boar.1190",
+      "npcId": 1190,
+      "chapterId": "ch.loch",
+      "blockId": "b.loch.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Горный вепрь",
+        "enUS": "Mountain Boar"
+      }
+    },
+    {
+      "id": "boar.1191",
+      "npcId": 1191,
+      "chapterId": "ch.loch",
+      "blockId": "b.loch.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Облезлый горный вепрь",
+        "enUS": "Mangy Mountain Boar"
+      }
+    },
+    {
+      "id": "boar.1192",
+      "npcId": 1192,
+      "chapterId": "ch.loch",
+      "blockId": "b.loch.06",
+      "tameable": true,
+      "title": {
+        "ruRU": "Старый горный вепрь",
+        "enUS": "Elder Mountain Boar"
+      }
+    },
+    {
+      "id": "boar.113",
+      "npcId": 113,
+      "chapterId": "ch.elwynn",
+      "blockId": "b.elwynn.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Вепрь-камнеклык",
+        "enUS": "Stonetusk Boar"
+      }
+    },
+    {
+      "id": "boar.524",
+      "npcId": 524,
+      "chapterId": "ch.elwynn",
+      "blockId": "b.elwynn.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Твердошкурый вепрь",
+        "enUS": "Rockhide Boar"
+      }
+    },
+    {
+      "id": "boar.330",
+      "npcId": 330,
+      "chapterId": "ch.elwynn",
+      "blockId": "b.elwynn.06",
+      "tameable": true,
+      "title": {
+        "ruRU": "Принцесса",
+        "enUS": "Princess"
+      }
+    },
+    {
+      "id": "boar.390",
+      "npcId": 390,
+      "chapterId": "ch.elwynn",
+      "blockId": "b.elwynn.08",
+      "tameable": true,
+      "title": {
+        "ruRU": "Кабаний эскорт",
+        "enUS": "Porcine Entourage"
+      }
+    },
+    {
+      "id": "boar.119",
+      "npcId": 119,
+      "chapterId": "ch.elwynn",
+      "blockId": "b.elwynn.10",
+      "tameable": true,
+      "title": {
+        "ruRU": "Длиннорыл",
+        "enUS": "Longsnout"
+      }
+    },
+    {
+      "id": "boar.454",
+      "npcId": 454,
+      "chapterId": "ch.west",
+      "blockId": "b.west.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Молодой жутевепрь",
+        "enUS": "Young Goretusk"
+      }
+    },
+    {
+      "id": "boar.157",
+      "npcId": 157,
+      "chapterId": "ch.west",
+      "blockId": "b.west.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Жутеклык",
+        "enUS": "Goretusk"
+      }
+    },
+    {
+      "id": "boar.547",
+      "npcId": 547,
+      "chapterId": "ch.west",
+      "blockId": "b.west.06",
+      "tameable": true,
+      "title": {
+        "ruRU": "Большой жутевепрь",
+        "enUS": "Great Goretusk"
+      }
+    },
+    {
+      "id": "boar.345",
+      "npcId": 345,
+      "chapterId": "ch.west",
+      "blockId": "b.west.08",
+      "tameable": true,
+      "title": {
+        "ruRU": "Грубобрюх",
+        "enUS": "Bellygrub"
+      }
+    },
+    {
+      "id": "boar.1984",
+      "npcId": 1984,
+      "chapterId": "ch.teldrassil",
+      "blockId": "b.teldrassil.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Молодой щетинистый вепрь",
+        "enUS": "Young Thistle Boar"
+      }
+    },
+    {
+      "id": "boar.1985",
+      "npcId": 1985,
+      "chapterId": "ch.teldrassil",
+      "blockId": "b.teldrassil.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Щетинистый вепрь",
+        "enUS": "Thistle Boar"
+      }
+    },
+    {
+      "id": "boar.3098",
+      "npcId": 3098,
+      "chapterId": "ch.durotar",
+      "blockId": "b.durotar.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Пятнистый вепрь",
+        "enUS": "Mottled Boar"
+      }
+    },
+    {
+      "id": "boar.3099",
+      "npcId": 3099,
+      "chapterId": "ch.durotar",
+      "blockId": "b.durotar.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Лютый пятнистый вепрь",
+        "enUS": "Dire Mottled Boar"
+      }
+    },
+    {
+      "id": "boar.3100",
+      "npcId": 3100,
+      "chapterId": "ch.durotar",
+      "blockId": "b.durotar.06",
+      "tameable": true,
+      "title": {
+        "ruRU": "Старый крапчатый вепрь",
+        "enUS": "Elder Mottled Boar"
+      }
+    },
+    {
+      "id": "boar.3225",
+      "npcId": 3225,
+      "chapterId": "ch.durotar",
+      "blockId": "b.durotar.08",
+      "tameable": true,
+      "title": {
+        "ruRU": "Оскверненный крапчатый вепрь",
+        "enUS": "Corrupted Mottled Boar"
+      }
+    },
+    {
+      "id": "boar.2966",
+      "npcId": 2966,
+      "chapterId": "ch.mulgore",
+      "blockId": "b.mulgore.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Боевой вепрь",
+        "enUS": "Battleboar"
+      }
+    },
+    {
+      "id": "boar.2954",
+      "npcId": 2954,
+      "chapterId": "ch.mulgore",
+      "blockId": "b.mulgore.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Боевой вепрь-дыбогрив",
+        "enUS": "Bristleback Battleboar"
+      }
+    },
+    {
+      "id": "boar.4511",
+      "npcId": 4511,
+      "chapterId": "ch.kraul",
+      "blockId": "b.kraul.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Агам’ар",
+        "enUS": "Agam’ar"
+      }
+    },
+    {
+      "id": "boar.4514",
+      "npcId": 4514,
+      "chapterId": "ch.kraul",
+      "blockId": "b.kraul.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Разъяренный Агам’ар",
+        "enUS": "Raging Agam’ar"
+      }
+    },
+    {
+      "id": "boar.4512",
+      "npcId": 4512,
+      "chapterId": "ch.kraul",
+      "blockId": "b.kraul.06",
+      "tameable": true,
+      "title": {
+        "ruRU": "Гниющий Агам’ар",
+        "enUS": "Rotting Agam’ar"
+      }
+    },
+    {
+      "id": "boar.4422",
+      "npcId": 4422,
+      "chapterId": "ch.kraul",
+      "blockId": "b.kraul.08",
+      "tameable": false,
+      "title": {
+        "ruRU": "Агателос Свирепый",
+        "enUS": "Agathelos the Raging"
+      }
+    },
+    {
+      "id": "boar.6021",
+      "npcId": 6021,
+      "chapterId": "ch.kraul",
+      "blockId": "b.kraul.08",
+      "tameable": false,
+      "title": {
+        "ruRU": "Дух вепря",
+        "enUS": "Boar Spirit"
+      }
+    },
+    {
+      "id": "boar.4535",
+      "npcId": 4535,
+      "chapterId": "ch.kraul",
+      "blockId": "b.kraul.08",
+      "tameable": false,
+      "title": {
+        "ruRU": "Прирученный боевой вепрь",
+        "enUS": "Tamed Battleboar"
+      }
+    },
+    {
+      "id": "boar.5992",
+      "npcId": 5992,
+      "chapterId": "ch.blasted",
+      "blockId": "b.blasted.02",
+      "tameable": true,
+      "title": {
+        "ruRU": "Пеплогривый кабан",
+        "enUS": "Ashmane Boar"
+      }
+    },
+    {
+      "id": "boar.8303",
+      "npcId": 8303,
+      "chapterId": "ch.blasted",
+      "blockId": "b.blasted.04",
+      "tameable": true,
+      "title": {
+        "ruRU": "Хрюггер",
+        "enUS": "Grunter"
+      }
+    },
+    {
+      "id": "boar.5993",
+      "npcId": 5993,
+      "chapterId": "ch.blasted",
+      "blockId": "b.blasted.06",
+      "tameable": false,
+      "title": {
+        "ruRU": "Зловепрь",
+        "enUS": "Helboar"
+      }
+    },
+    {
+      "id": "boar.16117",
+      "npcId": 16117,
+      "chapterId": "ch.plague",
+      "blockId": "b.plague.01",
+      "tameable": true,
+      "title": {
+        "ruRU": "Чумной кабан",
+        "enUS": "Plagued Swine"
+      }
+    }
+  ],
+  "meta": [
+    {
+      "id": "region.dun",
+      "title": {
+        "ruRU": "Дун Морог: все кабаны записаны",
+        "enUS": "Dun Morogh: every boar recorded"
+      },
+      "requires": [
+        "boar.708",
+        "boar.1125",
+        "boar.1126",
+        "boar.1127",
+        "boar.1689"
+      ]
+    },
+    {
+      "id": "region.loch",
+      "title": {
+        "ruRU": "Лок Модан: все кабаны записаны",
+        "enUS": "Loch Modan: every boar recorded"
+      },
+      "requires": [
+        "boar.1190",
+        "boar.1191",
+        "boar.1192"
+      ]
+    },
+    {
+      "id": "region.elwynn",
+      "title": {
+        "ruRU": "Элвиннский лес: все кабаны записаны",
+        "enUS": "Elwynn Forest: every boar recorded"
+      },
+      "requires": [
+        "boar.113",
+        "boar.524",
+        "boar.330",
+        "boar.390",
+        "boar.119"
+      ]
+    },
+    {
+      "id": "region.west",
+      "title": {
+        "ruRU": "Западный Край и Красногорье: все кабаны записаны",
+        "enUS": "Westfall and Redridge: every boar recorded"
+      },
+      "requires": [
+        "boar.454",
+        "boar.157",
+        "boar.547",
+        "boar.345"
+      ]
+    },
+    {
+      "id": "region.teldrassil",
+      "title": {
+        "ruRU": "Тельдрассил: все кабаны записаны",
+        "enUS": "Teldrassil: every boar recorded"
+      },
+      "requires": [
+        "boar.1984",
+        "boar.1985"
+      ]
+    },
+    {
+      "id": "region.durotar",
+      "title": {
+        "ruRU": "Дуротар: все кабаны записаны",
+        "enUS": "Durotar: every boar recorded"
+      },
+      "requires": [
+        "boar.3098",
+        "boar.3099",
+        "boar.3100",
+        "boar.3225"
+      ]
+    },
+    {
+      "id": "region.mulgore",
+      "title": {
+        "ruRU": "Мулгор: все кабаны записаны",
+        "enUS": "Mulgore: every boar recorded"
+      },
+      "requires": [
+        "boar.2966",
+        "boar.2954"
+      ]
+    },
+    {
+      "id": "region.kraul",
+      "title": {
+        "ruRU": "Лабиринты Иглошкурых: все кабаны записаны",
+        "enUS": "Razorfen Kraul: every boar recorded"
+      },
+      "requires": [
+        "boar.4511",
+        "boar.4514",
+        "boar.4512",
+        "boar.4422",
+        "boar.6021",
+        "boar.4535"
+      ]
+    },
+    {
+      "id": "region.blasted",
+      "title": {
+        "ruRU": "Выжженные земли: все кабаны записаны",
+        "enUS": "Blasted Lands: every boar recorded"
+      },
+      "requires": [
+        "boar.5992",
+        "boar.8303",
+        "boar.5993"
+      ]
+    },
+    {
+      "id": "all.tameable",
+      "title": {
+        "ruRU": "Все приручаемые кабаны",
+        "enUS": "Every tameable boar"
+      },
+      "requires": [
+        "boar.708",
+        "boar.1125",
+        "boar.1126",
+        "boar.1127",
+        "boar.1689",
+        "boar.1190",
+        "boar.1191",
+        "boar.1192",
+        "boar.113",
+        "boar.524",
+        "boar.330",
+        "boar.390",
+        "boar.119",
+        "boar.454",
+        "boar.157",
+        "boar.547",
+        "boar.345",
+        "boar.1984",
+        "boar.1985",
+        "boar.3098",
+        "boar.3099",
+        "boar.3100",
+        "boar.3225",
+        "boar.2966",
+        "boar.2954",
+        "boar.4511",
+        "boar.4514",
+        "boar.4512",
+        "boar.5992",
+        "boar.8303",
+        "boar.16117"
+      ]
+    },
+    {
+      "id": "all.special",
+      "title": {
+        "ruRU": "Особые встречи",
+        "enUS": "Unusual encounters"
+      },
+      "requires": [
+        "boar.4422",
+        "boar.6021",
+        "boar.4535",
+        "boar.5993"
+      ]
+    },
+    {
+      "id": "all.book",
+      "title": {
+        "ruRU": "Полный бестиарий Дура",
+        "enUS": "Dur’s complete bestiary"
+      },
+      "requires": [
+        "boar.708",
+        "boar.1125",
+        "boar.1126",
+        "boar.1127",
+        "boar.1689",
+        "boar.1190",
+        "boar.1191",
+        "boar.1192",
+        "boar.113",
+        "boar.524",
+        "boar.330",
+        "boar.390",
+        "boar.119",
+        "boar.454",
+        "boar.157",
+        "boar.547",
+        "boar.345",
+        "boar.1984",
+        "boar.1985",
+        "boar.3098",
+        "boar.3099",
+        "boar.3100",
+        "boar.3225",
+        "boar.2966",
+        "boar.2954",
+        "boar.4511",
+        "boar.4514",
+        "boar.4512",
+        "boar.4422",
+        "boar.6021",
+        "boar.4535",
+        "boar.5992",
+        "boar.8303",
+        "boar.5993",
+        "boar.16117"
+      ]
+    }
+  ]
+}
