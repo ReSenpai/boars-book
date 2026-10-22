@@ -6,6 +6,8 @@ Dur Blackbeard, a dwarf hunter with more enthusiasm than drawing skill, set out 
 boar a hunter can tame. Boars Book is his travel bestiary: where each kind lives, which coats are rare, how to tame
 them, and a few recipes from beside the cooking pot — 14 chapters and 15 sketches on parchment, in English and Russian.
 
+[![CurseForge](https://img.shields.io/badge/CurseForge-Boars%20Book-f16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/boars-book)
+[![CurseForge downloads](https://img.shields.io/curseforge/dt/1759304?label=Downloads&logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/boars-book)
 [![Latest release](https://img.shields.io/github/v/release/ReSenpai/boars-book?label=Release&logo=github)](https://github.com/ReSenpai/boars-book/releases/latest)
 [![WoW Classic Era](https://img.shields.io/badge/WoW-Classic%20Era%201.15-c79c6e)](#compatibility)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
@@ -27,10 +29,14 @@ them, and a few recipes from beside the cooking pot — 14 chapters and 15 sketc
 
 ## Installation
 
-Download `BoarsBook-<version>-classic.zip` from the [latest release](https://github.com/ReSenpai/boars-book/releases/latest)
-and unpack it into `World of Warcraft\_classic_era_\Interface\AddOns`, so that you get
-`Interface\AddOns\BoarsBook\BoarsBook.toc`. Restart the game completely (not just `/reload`) the first time, so it
-loads the book's pictures.
+**[Get Boars Book on CurseForge](https://www.curseforge.com/wow/addons/boars-book)**: install and update it with the
+CurseForge app or any addon manager that uses CurseForge.
+
+Or by hand: download `BoarsBook-<version>-classic.zip` from the
+[latest release](https://github.com/ReSenpai/boars-book/releases/latest) and unpack it into
+`World of Warcraft\_classic_era_\Interface\AddOns`, so that you get `Interface\AddOns\BoarsBook\BoarsBook.toc`.
+
+Either way, restart the game completely (not just `/reload`) the first time, so it loads the book's pictures.
 
 ## A closer look
 
@@ -126,8 +132,10 @@ versions are listed in [CHANGELOG.md](CHANGELOG.md).
   переключить до выхода из игры.
 - **Значок кабана у миникарты:** левый клик — книга, правый — окно-страница.
 
-**Установка:** скачайте `BoarsBook-<версия>-classic.zip` из [релизов](https://github.com/ReSenpai/boars-book/releases/latest)
-и распакуйте в `World of Warcraft\_classic_era_\Interface\AddOns`. В первый раз полностью перезапустите игру.
+**Установка:** [Boars Book на CurseForge](https://www.curseforge.com/wow/addons/boars-book) — через приложение
+CurseForge или любой менеджер аддонов. Или вручную: скачайте `BoarsBook-<версия>-classic.zip` из
+[релизов](https://github.com/ReSenpai/boars-book/releases/latest) и распакуйте в
+`World of Warcraft\_classic_era_\Interface\AddOns`. В первый раз полностью перезапустите игру.
 
 **Команды:** `/boars` — книга, `/boars window` — окно-страница, `/boars found` — сколько найдено,
 `/boars lang ru|en` — язык, `/boars font 18` — размер текста, `/boars minimap` — значок, `/boars help` — все команды.
