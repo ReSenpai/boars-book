@@ -27,7 +27,7 @@ them, and a few recipes from beside the cooking pot — 14 chapters and 15 sketc
 
 ## Installation
 
-Download `BoarsBook-<version>.zip` from the [latest release](https://github.com/ReSenpai/boars-book/releases/latest)
+Download `BoarsBook-<version>-classic.zip` from the [latest release](https://github.com/ReSenpai/boars-book/releases/latest)
 and unpack it into `World of Warcraft\_classic_era_\Interface\AddOns`, so that you get
 `Interface\AddOns\BoarsBook\BoarsBook.toc`. Restart the game completely (not just `/reload`) the first time, so it
 loads the book's pictures.
@@ -126,7 +126,7 @@ versions are listed in [CHANGELOG.md](CHANGELOG.md).
   переключить до выхода из игры.
 - **Значок кабана у миникарты:** левый клик — книга, правый — окно-страница.
 
-**Установка:** скачайте `BoarsBook-<версия>.zip` из [релизов](https://github.com/ReSenpai/boars-book/releases/latest)
+**Установка:** скачайте `BoarsBook-<версия>-classic.zip` из [релизов](https://github.com/ReSenpai/boars-book/releases/latest)
 и распакуйте в `World of Warcraft\_classic_era_\Interface\AddOns`. В первый раз полностью перезапустите игру.
 
 **Команды:** `/boars` — книга, `/boars window` — окно-страница, `/boars found` — сколько найдено,

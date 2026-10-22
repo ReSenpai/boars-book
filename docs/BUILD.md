@@ -19,6 +19,6 @@ every translation. Then it writes the generated files.
 2. A new edition of the text: raise `revision` in `book/*.json`. Readers keep their place.
 3. Commit, tag and push: `git tag v1.0.1 && git push origin main --tags`.
 
-The `Release` workflow (`.github/workflows/release.yml`, BigWigsMods/packager) builds `BoarsBook-<tag>.zip` without
+The `Release` workflow (`.github/workflows/release.yml`, BigWigsMods/packager) builds `BoarsBook-<tag>-classic.zip` without
 the files listed under `ignore` in `.pkgmeta`. It publishes the zip as a GitHub release with the changelog, and on
 CurseForge once the TOC carries `X-Curse-Project-ID` and the repository has the `CF_API_KEY` secret.
